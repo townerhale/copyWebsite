@@ -1,0 +1,28 @@
+.ui.right.aligned.category.search.item {
+  background-color: #F5F5F5;
+  box-shadow: none;
+  border: none;
+  float: right;
+  height: 32px;
+  padding-top: 8px;
+  width: 303px;
+  margin-right: 15px;
+
+}
+.ui.top.attached.menu {
+background-color: #494949 ;
+  width: 970px;
+  height: 40px;
+  margin: auto;
+}
+.active.item{
+  background-color: #00579c
+}
+.ui.text.menu{
+  background-color: #00579c;
+
+}
+#bodyId a.active.item
+{
+  background-color: #00579c;
+}
